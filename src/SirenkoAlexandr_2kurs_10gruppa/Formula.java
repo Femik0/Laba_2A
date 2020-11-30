@@ -132,6 +132,5 @@ public class Formula extends JFrame {
             result.setText("");
         }
     }
-
-
+    
 }
